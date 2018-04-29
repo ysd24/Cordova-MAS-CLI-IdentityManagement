@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-mas-identitymanagement",
+  "name": "cordova-plugin-mas-cli-identitymanagement",
   "version": "1.6.10",
   "description": "Cordova MASIdentityManagement Plugin",
   "cordova": {
-    "id": "cordova-plugin-mas-identitymanagement",
+    "id": "cordova-plugin-mas-cli-identitymanagement",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CAAPIM/MAS-IdentityManagement-Cordova.git"
+    "url": "git+https://github.com/ysd24/Cordova-MAS-CLI-IdentityManagement.git"
   },
   "keywords": [
     "cordova",
@@ -24,7 +24,7 @@
   "author": "CA Technologies Ltd.",
   "license": "CA Technologies Ltd.",
   "bugs": {
-    "url": "https://github.com/CAAPIM/MAS-IdentityManagement-Cordova/issues"
+    "url": "https://github.com/ysd24/Cordova-MAS-CLI-IdentityManagement/issues"
   },
-  "homepage": "https://github.com/CAAPIM/MAS-IdentityManagement-Cordova#readme"
+  "homepage": "https://github.com/ysd24/Cordova-MAS-CLI-IdentityManagement#readme"
 }
