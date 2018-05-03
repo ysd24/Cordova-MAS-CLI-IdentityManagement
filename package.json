@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-mas-cli-identitymanagement",
-  "version": "1.6.11",
+  "version": "1.6.12",
   "description": "Cordova MASIdentityManagement Plugin",
   "cordova": {
     "id": "cordova-plugin-mas-cli-identitymanagement",
