@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-mas-cli-identitymanagement",
-  "version": "1.6.10",
+  "version": "1.6.11",
   "description": "Cordova MASIdentityManagement Plugin",
   "cordova": {
     "id": "cordova-plugin-mas-cli-identitymanagement",
@@ -15,7 +15,7 @@
   },
   "keywords": [
     "cordova",
-    "MASIdentityManagement",
+    "cordova-plugin-mas-cli-identitymanagement",
     "CA Technologies",
     "ecosystem:cordova",
     "cordova-ios",

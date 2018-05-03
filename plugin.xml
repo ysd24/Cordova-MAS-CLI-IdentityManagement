@@ -3,8 +3,8 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-mas-cli-identitymanagement"
-      version="0.1.0">
-    <name>MASIdentityManagement</name>
+      version="1.16.10">
+    <name>cordova-plugin-mas-cli-identitymanagement</name>
     <description>Cordova MASIdentityManagement Plugin</description>
     <license>CA Technologies Ltd.</license>
     <keywords>cordova, MASIdentityManagement, CA Technologies</keywords>
